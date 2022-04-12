@@ -2,9 +2,7 @@
 
 <!--
 **av153k/av153k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working at [Asconsoftech India Pvt. Ltd.](https://asconsoftech.com/) as([abhisheka-asconsoft](https://github.com/abhisheka-asconsoft))
 - 🌱 I’m currently learning web development. 
 - 👯 I’m looking to collaborate on mobile development using Flutter
