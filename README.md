@@ -12,6 +12,5 @@ Here are some ideas to get you started:
 - 💬 Ask me about Flutter development.
 - 📫 How to reach me: lex.abhishek@gmail.com
 - ⚡ Fun fact: Char and bool are same size.
--->
 
 <a href="https://app.daily.dev/av153k"><img src="https://api.daily.dev/devcards/c388fc024e8746a29846d40c54b26a40.png?r=17s" width="400" alt="Abhishek Anand's Dev Card"/></a>
