@@ -45,6 +45,7 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=av153k&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)  
   
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=av153k&show_icons=true&theme=gotham)](https://github.com/av153k/github-readme-stats)
+[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=av153k&show_icons=true&theme=gotham)](https://github.com/av153k/github-readme-stats)  
+
 <a href="https://app.daily.dev/av153k"><img src="https://github.com/av153k/av153k/blob/main/devcard.svg" width="400" alt="Abhishek Anand's Dev Card"/></a>
 
