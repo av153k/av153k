@@ -11,4 +11,4 @@
 - 📫 How to reach me: lex.abhishek@gmail.com
 - 🤣 Fun Fact - The best thing about Boolean is that even if you are wrong, you're only off by a bit.
 
-<a href="https://app.daily.dev/av153k"><img src="https://api.daily.dev/devcards/c388fc024e8746a29846d40c54b26a40.png?r=17s" width="400" alt="Abhishek Anand's Dev Card"/></a>
+<a href="https://app.daily.dev/av153k"><img src="https://github.com/av153k/av153k/blob/main/devcard.svg" width="400" alt="Abhishek Anand's Dev Card"/></a>
