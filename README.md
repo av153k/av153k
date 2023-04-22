@@ -4,9 +4,9 @@
 **av153k/av153k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 * 🔭 I’m currently working at [Asconsoftech India Pvt. Ltd.](https://asconsoftech.com/) as([abhisheka-asconsoft](https://github.com/abhisheka-asconsoft))
-* 🌱 I’m currently learning web development.
+* 🌱 I’m currently learning golang and rust.
 * 👯 I’m looking to collaborate on mobile development using Flutter.
-* 🤔 I’m looking for help with web development.
+* 🤔 I’m looking for help with backend development.
 * 💬 Ask me about Flutter development.
 * 📫 How to reach me: lex.abhishek@gmail.com
 * 🤣 Fun Fact - The best thing about Boolean <br/>is that even if you are wrong, you're only off by a bit.
@@ -16,7 +16,9 @@
 ### 🛠 &nbsp; Languages and Tools :
 
 <p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/rust/rust-plain.svg" title="Rust" alt="Rust" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alrt="Dart" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alrt="Python" width="40" height="40"/>&nbsp; 
