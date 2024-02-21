@@ -52,5 +52,5 @@
   
 [![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=av153k&show_icons=true&theme=gotham)](https://github.com/av153k/github-readme-stats)  
 
-<a href="https://app.daily.dev/av153k"><img src="https://github.com/av153k/av153k/blob/main/devcard.svg" width="400" alt="Abhishek Anand's Dev Card"/></a>
+<a href="https://app.daily.dev/av153k"><img src="https://api.daily.dev/devcards/v2/zDrBUkwrJGa9fo7ARWLLG.png?r=k6t&type=default" width="356" alt="Abhishek Anand's Dev Card"/></a>
 
