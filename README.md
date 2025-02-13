@@ -4,8 +4,8 @@
 **av153k/av153k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 * 🔭 I’m currently working at [Asconsoftech India Pvt. Ltd.](https://asconsoftech.com/) as([abhisheka-asconsoft](https://github.com/abhisheka-asconsoft))
-* 🌱 I’m currently learning golang.
-* 👯 I’m looking to collaborate on mobile development using Flutter.
+* 🌱 I’m currently learning Kotlin multiplatform and golang.
+* 👯 I’m looking to collaborate on mobile development using Flutter, Kotlin Multiplatfor or Backend development using Golang.
 * 🤔 I’m looking for help with backend development.
 * 💬 Ask me about Flutter development.
 * 📫 How to reach me: lex.abhishek@gmail.com
@@ -17,7 +17,9 @@
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alrt="Dart" width="40" height="40"/>&nbsp; 
+<img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" title="Dart" alrt="Dart" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/jetpackcompose/jetpackcompose-original.svg" title="Jetpack Compose" alrt="Jetpack Compose" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alrt="Kotlin" width="40" height="40"/>&nbsp; 
 <img src="https://github.com/devicons/devicon/blob/master/icons/go/go-original-wordmark.svg" title="Go" alt="Go" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alrt="TypeScript" width="40" height="40"/>&nbsp;
