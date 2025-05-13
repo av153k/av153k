@@ -46,12 +46,3 @@
   <a href="www.linkedin.com/in/av153k"><img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" title="LinkedIn" **alt="LinkedIn" width="40" height="40"/></a>&nbsp; 
 </p>
 
----
-
-### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=av153k&theme=onedark_duo&hide_border=true)](https://git.io/streak-stats)  
-  
-[![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=av153k&show_icons=true&theme=gotham)](https://github.com/av153k/github-readme-stats)  
-
-<a href="https://app.daily.dev/av153k"><img src="https://api.daily.dev/devcards/v2/zDrBUkwrJGa9fo7ARWLLG.png?r=k6t&type=default" width="356" alt="Abhishek Anand's Dev Card"/></a>
-
