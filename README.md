@@ -3,7 +3,6 @@
 <!--
 **av153k/av153k** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-* 🔭 I’m currently working at [Asconsoftech India Pvt. Ltd.](https://asconsoftech.com/) as([abhisheka-asconsoft](https://github.com/abhisheka-asconsoft))
 * 🌱 I’m currently learning Kotlin multiplatform and GoLang.
 * 👯 I want to collaborate on mobile development using Flutter, Kotlin Multiplatform, or Backend development using Golang.
 * 🤔 I’m looking for help with backend development.
